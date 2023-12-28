@@ -3,8 +3,8 @@
 
 <h1 align="center">Hi 👾 , I'm Aadit Singal</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+magically+turn+caffeine+into+code+;and+transform+bugs+into+features.+;Don't+worry%2C+I've+got+99+problems%2C+;but+a+commit+ain't+one!" alt="Typing SVG" /></a>
+![Ry6p](https://github.com/adi-devv/adi-devv/assets/79838616/4b11f352-b4be-45ac-a87a-058532dca338)
 
-[![Alt Text](https://gifer.com/embed/Ry6p.jpg)](https://gifer.com/embed/Ry6p)
 
 
 # 💻 Tech Stack:
