@@ -6,7 +6,7 @@
 
 <!--![Ry6p](https://github.com/adi-devv/adi-devv/assets/79838616/4b11f352-b4be-45ac-a87a-058532dca338)-->
 
-![J4o](https://github.com/adi-devv/adi-devv/assets/79838616/0f22d7cb-0e6f-46c7-92ce-6e1a22bc9481)
+<img align="center" alt="Coding" width="1000" height="500" src="https://github.com/adi-devv/adi-devv/assets/79838616/0f22d7cb-0e6f-46c7-92ce-6e1a22bc9481">
 
 
 
