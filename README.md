@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👾 , I'm Aadit Singal</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+magically+turn+caffeine+into+code+;and+transform+bugs+into+features.+;Don't+worry%2C+I've+got+99+problems%2C+;but+a+commit+ain't+one!" alt="Typing SVG" /></a>
 
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/Ry6p" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+[![Alt Text](https://gifer.com/embed/Ry6p.jpg)](https://gifer.com/embed/Ry6p)
 
 
 # 💻 Tech Stack:
