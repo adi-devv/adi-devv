@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👾 , I'm Aadit Singal</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines="Coding+is+like+a+fine+wine—it+gets+better+with+age; Debugging,+on+the+other+hand,+gets+worse+with+every+sip;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines="Coding+is+like+a+fine+wine—;it+gets+better+with+age;Debugging,+on+the+other+hand,;+gets+worse+with+every+sip;" alt="Typing SVG" /></a>
 
 <!--![Ry6p](https://github.com/adi-devv/adi-devv/assets/79838616/4b11f352-b4be-45ac-a87a-058532dca338)-->
 
