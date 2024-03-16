@@ -22,7 +22,7 @@ GitHub Stats:
 <br/>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratyushdev-codes&theme=vision_friendly_dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi-devv&theme=vision_friendly_dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pratyushdev-codes&theme=github_dark&utcOffset=8">
 </p>
 
