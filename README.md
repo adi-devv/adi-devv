@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👾 , I'm Aadit Singal</h1>
-<h6>#40daysofcode #100daysofcode #60daysofwebdev</h6>
+<h6>I code for fun.</h6></h6>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;" alt="Typing SVG" />
 </a>
