@@ -1,18 +1,10 @@
-<!-- [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io) -->
-
-
 <h1 align="center">Hi 👾 , I'm Aadit Singal</h1>
 <h6>#40daysofcode #100daysofcode #60daysofwebdev</h6>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;" alt="Typing SVG" />
 </a>
 
-
-<!--![Ry6p](https://github.com/adi-devv/adi-devv/assets/79838616/4b11f352-b4be-45ac-a87a-058532dca338)-->
-
 <img align="center" alt="Coding" width="1000" height="500" src="https://github.com/adi-devv/adi-devv/assets/79838616/0f22d7cb-0e6f-46c7-92ce-6e1a22bc9481">
-
-
 
 # 💻 Tech Stack:
 <div align="center">
@@ -41,11 +33,11 @@
   	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>  
 </div>
 	
-Contribution Graph:
+#Contribution Graph:
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-GitHub Stats:
+# 📊 GitHub Stats:
 <br/>
 
 <p align="center">
@@ -57,7 +49,6 @@ GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊 GitHub Stats:
 ![Aadit's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=tokyonight&border_radius=7.6)
 
 
