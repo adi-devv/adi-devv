@@ -6,11 +6,12 @@
 
 <h6>I code for fun.</h6></h6>
 <div style="position: relative; width: 500px; height: 500px;">
-  <img style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" alt="GIF" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
-  <a href="https://git.io/typing-svg" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+  <a href="https://git.io/typing-svg" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;" alt="Typing SVG" />
   </a>
+  <img style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;" alt="GIF" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
 </div>
+
 
 <!--
 <a href="https://git.io/typing-svg">
