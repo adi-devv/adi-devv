@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👾 , I'm Aadit Singal
   <br>
-  <img align="center" alt="GIF" width="200" height="100" src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" />
+  <img align="center" alt="GIF" width="200" height="100" src="https://giphy.com/gifs/sci-fi-spaceship-globe-jRqsWNuEP3yQQhRCbf/giphy.gif" />
 </h1>
 
 <h6>I code for fun.</h6></h6>
