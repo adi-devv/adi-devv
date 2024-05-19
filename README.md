@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;" alt="Typing SVG" />
 </a>
-<img align="center" alt="Coding" width="1000" height="500" src="https://i.pinimg.com/originals/d4/6b/19/d46b194a8a00596e6a8428922337234d.gif">
+<img align="center" alt="Coding" width="1000" height="500" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/vortex.gif">
 <!--
 <img align="center" alt="Coding" width="1000" height="500" src="https://github.com/adi-devv/adi-devv/assets/79838616/0f22d7cb-0e6f-46c7-92ce-6e1a22bc9481">-->
 
