@@ -1,9 +1,21 @@
 <h1 align="center">
   Hi
-  <a href="#">
-    <img align="center" alt="GIF" width="75" height="75" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
-  </a>
+  <input type="checkbox" id="toggle-img" style="display:none;">
+  <label for="toggle-img">
+    <img id="resizable-img" align="center" alt="GIF" width="75" height="75" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
+  </label>
 </h1>
+
+<style>
+  #resizable-img {
+    transition: width 0.5s ease, height 0.5s ease;
+  }
+  
+  #toggle-img:checked + label > #resizable-img {
+    width: 1000px;
+    height: 1000px;
+  }
+</style>
 
 
 <h6>I code for fun.</h6></h6>
