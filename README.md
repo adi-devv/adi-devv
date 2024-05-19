@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi
-  <a href="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" target="_blank">
+  <a href=#>
     <img align="center" alt="GIF" width="75" height="75" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
   </a>
 </h1>
