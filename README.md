@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👾 , I'm Aadit Singal</h1>
+<h1 align="center">
+  Hi 👾 , I'm Aadit Singal
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3q63&psig=AOvVaw235UySm5CDXP4m8Zgs6Ohf&ust=1716202989084000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDvtLzImYYDFQAAAAAdAAAAABAE" alt="GIF" />
+</h1>
 <h6>I code for fun.</h6></h6>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;" alt="Typing SVG" />
