@@ -1,7 +1,6 @@
 <h1 align="center">
   Hi
   <img align="center" alt="GIF" width="75" height="75" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
-  , I'm Aadit Singal
 </h1>
 
 <h6>I code for fun.</h6></h6>
