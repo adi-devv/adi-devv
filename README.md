@@ -5,12 +5,18 @@
 </h1>
 
 <h6>I code for fun.</h6></h6>
+<div style="position: relative;">
+  <img align="center" alt="GIF" width="500" height="500" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; font-size: 24px;">
+    Now I want it so that this text comes in between the GIF.
+  </div>
+</div>
+<!--
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;" alt="Typing SVG" />
 </a>
-
 <img align="center" alt="Coding" width="1000" height="500" src="https://github.com/adi-devv/adi-devv/assets/79838616/0f22d7cb-0e6f-46c7-92ce-6e1a22bc9481">
-
+-->
 # 💻 Tech Stack:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
