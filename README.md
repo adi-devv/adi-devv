@@ -43,7 +43,7 @@
 	
 # Contribution Graph:
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-green.svg)
 
 # 📊 GitHub Stats:
 <br/>
