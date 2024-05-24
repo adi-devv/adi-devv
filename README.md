@@ -43,7 +43,7 @@
 	
 # Contribution Graph:
 
-![](./profile-3d-contrib/profile-green.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 # 📊 GitHub Stats:
 <br/>
