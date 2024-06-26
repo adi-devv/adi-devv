@@ -6,6 +6,7 @@ on:
     types: [opened, merged]
   issues:
     types: [opened, closed]
+  workflow_dispatch:
 
 jobs:
   build:
