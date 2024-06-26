@@ -48,11 +48,6 @@
 # 📊 GitHub Stats:
 <br/>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi-devv&theme=vision_friendly_dark">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adi-devv&theme=github_dark&utcOffset=8">
-</p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0)](https://visitcount.itsvg.in)
 
