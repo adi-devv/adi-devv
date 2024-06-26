@@ -2,10 +2,8 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   push:
-  pull_request:
-    types: [opened, merged]
-  issues:
-    types: [opened, closed]
+    branches:
+      - '*'
   workflow_dispatch:
 
 jobs:
