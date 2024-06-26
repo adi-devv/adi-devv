@@ -1,9 +1,11 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "00 3 * * *"
-  workflow_dispatch:
+  push:
+  pull_request:
+    types: [opened, merged]
+  issues:
+    types: [opened, closed]
 
 jobs:
   build:
