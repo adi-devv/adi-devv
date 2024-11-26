@@ -14,7 +14,7 @@
 </a>
 <img align="center" alt="Coding" width="1000" height="500" src="https://github.com/adi-devv/adi-devv/assets/79838616/0f22d7cb-0e6f-46c7-92ce-6e1a22bc9481">
 
-# 💻 Tech Stack:
+<!--# 💻 Tech Stack:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
@@ -40,7 +40,7 @@
   	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00" alt="Unreal Engine" title="Unreal Engine"/></code>  
   	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>  
 </div>
-	
+-->	
 # Contribution Graph:
 
 ![](./profile-3d-contrib/profile-night-view.svg)
