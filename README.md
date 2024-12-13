@@ -5,13 +5,13 @@
     <img align="center" alt="GIF" width="75" height="75" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
   </a>
 </h1>
-
-<h6>I code for fun.</h6>
+<p align="left" style="display: inline;">I code for fun.</p>
 <p align="right" style="display: inline;">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0" alt="View Count" />
   </a>
 </p>
+
 
 
 
