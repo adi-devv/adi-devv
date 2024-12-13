@@ -7,11 +7,12 @@
 </h1>
 
 <h6>I code for fun.</h6></h6>
-<p style="text-align: right;">
+<div style="text-align: right;">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0" alt="View Count" style="display: block; margin-left: auto;" />
+    <img src="https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0" alt="View Count" />
   </a>
-</p>
+</div>
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;" alt="Typing SVG" />
