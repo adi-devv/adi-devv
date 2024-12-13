@@ -6,12 +6,13 @@
   </a>
 </h1>
 
-<h6>I code for fun.</h6></h6>
-<p align="right">
+<h6>I code for fun.</h6>
+<p align="right" style="display: inline;">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0" alt="View Count" />
   </a>
 </p>
+
 
 
 
