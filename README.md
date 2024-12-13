@@ -6,13 +6,14 @@
 </h1>
 
 
+[![](https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h6>I code for fun.</h6></h6>
-[![](https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;" alt="Typing SVG" />
 </a>
+
 <img align="center" alt="Coding" width="1000" height="500" src="https://github.com/adi-devv/adi-devv/assets/79838616/0f22d7cb-0e6f-46c7-92ce-6e1a22bc9481">
 
 <!--# 💻 Tech Stack:
