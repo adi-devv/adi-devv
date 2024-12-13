@@ -1,10 +1,20 @@
-[![](https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0)](https://visitcount.itsvg.in)
-<h1 align="center">
-  Hi
-  <a href="https://www.linkedin.com/in/aadit-singal-731438247/">
-    <img align="center" alt="GIF" width="75" height="75" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
-  </a>
-</h1>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1 align="center">
+        Hi
+        <a href="https://www.linkedin.com/in/aadit-singal-731438247/">
+          <img align="center" alt="GIF" width="75" height="75" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
+        </a>
+      </h1>
+    </td>
+    <td align="right">
+      <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0" alt="View Count" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
