@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">
   Hi
   <a href="https://www.linkedin.com/in/aadit-singal-731438247/">
@@ -6,7 +7,6 @@
 </h1>
 
 
-[![](https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h6>I code for fun.</h6></h6>
 
