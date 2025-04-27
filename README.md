@@ -1,7 +1,7 @@
 
 <h1 align="center">
   Hi
-  <a href="https://www.linkedin.com/in/aadit-singal-731438247/">
+  <a href="https://www.linkedin.com/in/aaditsingal/">
     <img align="center" alt="GIF" width="75" height="75" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
   </a>
 </h1>
