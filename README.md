@@ -5,11 +5,10 @@
     <img align="center" alt="GIF" width="75" height="75" src="https://raw.githubusercontent.com/adi-devv/adi-devv/main/media/4d.gif" />
   </a>
 </h1>
-<div style="overflow: auto;">
-  <p style="float: left; margin: 0;">I code for fun.</p>
-  <img src="https://komarev.com/ghpvc/?username=adi-devv" alt="Profile view counter on GitHub" style="float: right; margin: 0;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <p style="margin: 0; white-space: nowrap;">I code for fun.</p>
+  <img src="https://komarev.com/ghpvc/?username=adi-devv" alt="Profile view counter on GitHub" style="margin: 0;">
 </div>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=montserrat&color=F7F7F7&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;)](https://git.io/typing-svg)
 
 <!--# 💻 Tech Stack:
