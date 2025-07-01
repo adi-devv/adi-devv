@@ -7,9 +7,8 @@
 </h1>
 
 <p align="left">I code for fun.</p>
-<p align="right"><a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=adi-devv&label=Profile%20Views&icon=5&pretty=false" />
-</a></p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adi-devv)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=montserrat&color=F7F7F7&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;)](https://git.io/typing-svg)
 
 <!--# 💻 Tech Stack:
