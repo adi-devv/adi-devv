@@ -6,8 +6,8 @@
   </a>
 </h1>
 
-<p align="left">I code for fun.</p>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adi-devv)
+<p align="left">I code for fun.![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adi-devv)
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=montserrat&color=F7F7F7&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;)](https://git.io/typing-svg)
 
