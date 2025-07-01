@@ -7,12 +7,11 @@
 </h1>
 
 <p align="left">I code for fun.</p>
-<p align="right"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0" alt="View Count" /></a></p>
-
+<!-- <p align="right"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0" alt="View Count" /></a></p>
+ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=montserrat&color=F7F7F7&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;)](https://git.io/typing-svg)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adi-devv)
-
+[![](https://visitcount.itsvg.in/api?id=adi-devv&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!--# 💻 Tech Stack:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
