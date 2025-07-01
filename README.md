@@ -7,9 +7,11 @@
 </h1>
 
 <p align="left">I code for fun.</p>
-<!-- <p align="right"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0" alt="View Count" /></a></p>
- -->
+<p align="right"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=adi-devv&icon=0&color=0" alt="View Count" /></a></p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=montserrat&color=F7F7F7&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;)](https://git.io/typing-svg)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=adi-devv)
 
 <!--# 💻 Tech Stack:
 <div align="center">
@@ -62,8 +64,3 @@
 
 
 [![Aadit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adi-devv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
