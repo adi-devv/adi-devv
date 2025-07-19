@@ -52,12 +52,4 @@ Contribution History:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=dark">
 </p>
 
- ### 🔝 Top Contributed Repo
-<p align="center" style="width:100%;">
-
-![](https://github-contributor-stats.vercel.app/api?username=adi-devv&limit=5&theme=matrix&combine_all_yearly_contributions=true)
-</p>
-
-
-
 [![Aadit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adi-devv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
