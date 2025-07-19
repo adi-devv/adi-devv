@@ -50,7 +50,6 @@ Contribution History:
 <br/>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Aadit's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=tokyonight&border_radius=7.6)
 
 
