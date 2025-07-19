@@ -52,10 +52,10 @@
 ![Aadit's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=tokyonight&border_radius=7.6)
 
 
-
- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adi-devv&limit=5&theme=matrix&combine_all_yearly_contributions=true)
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi-devv&theme=vision_friendly_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adi-devv&theme=github_dark&utcOffset=8" style="margin-left: 100px;">
+</p>
 
 
 
