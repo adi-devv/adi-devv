@@ -40,9 +40,11 @@
   	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>  
 </div>
 -->	
-# Contribution Graph:
-
-![](./profile-3d-contrib/profile-night-view.svg)
+Contribution History:
+<br/>
+<p align="center" style="width:100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=dark">
+</p>
 
 # 📊 GitHub Stats:
 <br/>
@@ -52,10 +54,10 @@
 ![Aadit's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=tokyonight&border_radius=7.6)
 
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adi-devv&theme=vision_friendly_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adi-devv&theme=github_dark&utcOffset=8" style="margin-left: 100px;">
-</p>
+
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adi-devv&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+
 
 
 
