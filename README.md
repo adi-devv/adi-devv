@@ -40,16 +40,17 @@
   	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>  
 </div>
 -->	
-Contribution History:
+# Contribution Graph:
+
+![](./profile-3d-contrib/profile-night-view.svg)
+
 <br/>
-<p align="center" style="width:100%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=dark">
-</p>
 
 # 📊 GitHub Stats:
 <br/>
 
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Aadit's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=tokyonight&border_radius=7.6)
 
 
