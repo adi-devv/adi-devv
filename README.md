@@ -53,12 +53,8 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaditdev-codes&theme=tokyonight&border_radius=7.6)
-
-
- <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adi-devv&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- <!--  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adi-devv&limit=5&theme=matrix&combine_all_yearly_contributions=true)-->
+ ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adi-devv&limit=5&theme=matrix&combine_all_yearly_contributions=true)
 
 
 
