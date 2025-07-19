@@ -46,18 +46,17 @@
 
 <br/>
 
-# 📊 GitHub Stats:
+Contribution History:
 <br/>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Aadit's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=tokyonight&border_radius=7.6)
-
-
+<p align="center" style="width:100%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=dark">
+</p>
 
  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adi-devv&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+<p align="center" style="width:100%;">
 
+![](https://github-contributor-stats.vercel.app/api?username=adi-devv&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+</p>
 
 
 
