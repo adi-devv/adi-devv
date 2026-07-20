@@ -46,10 +46,4 @@
 
 <br/>
 
-Contribution History:
-<br/>
-<p align="center" style="width:100%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adi-devv&theme=dark">
-</p>
-
 [![Aadit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adi-devv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
