@@ -7,9 +7,6 @@
 </h1>
 
 <p align="left">I code for fun.</p>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=adi-devv" alt="Profile view counter on GitHub">
-</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=montserrat&color=F7F7F7&lines=Coding+is+like+a+fine+wine;—it+gets+better+with+age.;Debugging,+on+the+other+hand,;gets+worse+with+every+sip.;)](https://git.io/typing-svg)
 
@@ -43,7 +40,3 @@
 # Contribution Graph:
 
 ![](./profile-3d-contrib/profile-night-view.svg)
-
-<br/>
-
-[![Aadit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adi-devv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
